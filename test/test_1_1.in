@@ -1,0 +1,23 @@
+#input
+    4
+    10
+    p
+#output
+    4 6 8 10
+#endtest
+
+#input
+    5
+    12
+    i
+#output
+    5 7 9 11
+#endtest
+
+#input
+    5
+    12
+    e
+#output
+    6 9 12
+#endtest

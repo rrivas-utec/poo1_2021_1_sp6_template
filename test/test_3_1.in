@@ -1,0 +1,21 @@
+#input
+    Utec
+    1
+#output
+    cUte
+#endtest
+
+#input
+    University
+    -2
+#output
+    iversityUn
+#endtest
+
+#input
+    Student
+    3
+#output
+    entStud
+#endtest
+
