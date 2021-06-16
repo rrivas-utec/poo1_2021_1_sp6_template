@@ -4,11 +4,11 @@
 **cmake project:** poo1_sp6
 ## Indicaciones Específicas
 - El tiempo límite para la evaluación es 100 minutos.
-- Cada pregunta deberá ser respondida en un archivo fuente (`.cpp`) y un archivo cabecera (`.h`) con el número de la pregunta:
+- Cada pregunta deberá ser respondida en un archivo fuente (`.cpp`) y un archivo cabecera (`.h`) con el número de la pregunta:  
+**NOTA:** Los archivos se encuentra dentro del folder **src**  
     - `p1.cpp, p1.h`
     - `p2.cpp, p2.h`
     - `p3.cpp, p3.h`
-**NOTA:** Los archivos se encuentra dentro del folder **src**  
 - Deberás subir estos archivos directamente a [www.gradescope.com](https://www.gradescope.com) o se puede crear un `.zip` que contenga todos ellos y subirlo.
 ## Competencias
 - Para los alumnos de la carrera de Ciencia de la Computación
