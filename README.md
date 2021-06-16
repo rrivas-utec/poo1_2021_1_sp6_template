@@ -8,6 +8,7 @@
     - `p1.cpp, p1.h`
     - `p2.cpp, p2.h`
     - `p3.cpp, p3.h`
+**NOTA:** Los archivos se encuentra dentro del folder **src**  
 - Deberás subir estos archivos directamente a [www.gradescope.com](https://www.gradescope.com) o se puede crear un `.zip` que contenga todos ellos y subirlo.
 ## Competencias
 - Para los alumnos de la carrera de Ciencia de la Computación
