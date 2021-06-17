@@ -73,7 +73,7 @@ e
 
 ## Question #2 - Matrices Dinamicas (7 points)
 
-Ingresar desde teclado el valor de N, con el cual se genera una matriz cuadrada dinámica de NxN. Los valores generados son aleatorios con el rango de 1-9.
+Ingresar desde teclado el valor de N, con el cual se genera una matriz cuadrada dinámica de NxN. Los valores ingresados estaran en el rango de 1-9.
 - Ingresar desde teclado el valor para C, en cuál indica el número de columna.
 - Ingresar desde teclado el valor para OP, el cual indica la operación
   - OP= S, realiza la SUMA de los valores
